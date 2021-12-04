@@ -9,8 +9,7 @@
                     $cont_menor18= $cont_menor18+1;
              } else {
                     $cont_maior18= $cont_maior18+1;
-             }
-             
+             }       
             
             }
    
